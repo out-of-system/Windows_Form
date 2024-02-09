@@ -1,0 +1,17 @@
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\bin\Debug\net8.0-windows\Windows_Forms.exe
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\bin\Debug\net8.0-windows\Windows_Forms.deps.json
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\bin\Debug\net8.0-windows\Windows_Forms.runtimeconfig.json
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\bin\Debug\net8.0-windows\Windows_Forms.dll
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\bin\Debug\net8.0-windows\Windows_Forms.pdb
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.Form1.resources
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.csproj.GenerateResource.cache
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.AssemblyInfoInputs.cache
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.AssemblyInfo.cs
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.csproj.CoreCompileInputs.cache
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.dll
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\refint\Windows_Forms.dll
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.pdb
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.genruntimeconfig.cache
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\ref\Windows_Forms.dll
+C:\treinamento_dotNET\Windows_Forms\Windows_Forms\obj\Debug\net8.0-windows\Windows_Forms.Properties.Resources.resources
